@@ -1,0 +1,22 @@
+{
+  "name": "shiv-bhardwaj-2503201001071",
+  "version": "1.0.0",
+  "description": "SET A - Library Book Management REST API",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node test-endpoints.js"
+  },
+  "keywords": [
+    "library",
+    "book-management",
+    "express",
+    "rest-api"
+  ],
+  "author": "Shiv Bhardwaj (2503201001071)",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^5.3.0"
+  }
+}
